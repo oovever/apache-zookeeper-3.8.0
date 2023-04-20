@@ -1,0 +1,3 @@
+org/apache/zookeeper/metrics/prometheus/ExportJvmInfoTest.class
+org/apache/zookeeper/metrics/prometheus/PrometheusMetricsProviderTest.class
+org/apache/zookeeper/metrics/prometheus/PrometheusMetricsProviderConfigTest.class
